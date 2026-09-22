@@ -1,0 +1,2 @@
+#I have started working with Git and GitHub using the tutorial on 
+#The Odin Project. So far I enjoy learning with TOP!
